@@ -1,0 +1,6 @@
+t= (1,2,3,4,5.5,'aahnik',5.5)
+print (t)
+print(id(t))
+print(type(t))
+t.count(1)
+print(t)
